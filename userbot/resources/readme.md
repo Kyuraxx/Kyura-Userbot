@@ -1,2 +1,2 @@
-# Extra Resources for Man-Userbot
-Repository [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
+# Extra Resources for Kyura-Userbot
+Repository [Kyura-Userbot](https://github.com/Kyuraxp/Kyura-Userbot)
