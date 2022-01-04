@@ -119,13 +119,13 @@ async def repeat(event):
 async def repo_is_here(event):
     xx = await edit_or_reply(event, "`Processing...`")
     await xx.edit(
-        f"**Hey**, __I am using__ ⚡ **Kyura-Userbot** ⚡\n\n"
-        f"      __Thanks For Using me__\n\n"
-        f"✣ **Userbot Version :** `{BOT_VER}@{branch}`\n"
-        f"✣ **Group Support :** [Kyura Support](t.me/KyuraSupport)\n"
-        f"✣ **Channel Man :** [Kyura Projects](t.me/KyuraProjects)\n"
-        f"✣ **Owner Repo :** [Kyura](t.me/Kyuraonly)\n"
-        f"✣ **Repo :** [Kyura-Userbot](https://github.com/Kyuraxp/Kyura-Userbot)\n"
+        f"**Woy**, __Saya Menggunakan__ ⚡ **Kyura-Userbot** ⚡\n\n"
+        f"      __Thanks For Using me kntl__\n\n"
+        f"⚡ **Userbot Version :** `{BOT_VER}@{main}`\n"
+        f"⚡ **Group Support :** [Kyura Support](t.me/KyuraSupport)\n"
+        f"⚡ **Channel Man :** [Kyura Projects](t.me/KyuraProjects)\n"
+        f"⚡ **Owner Repo :** [Kyura](t.me/Kyuraonly)\n"
+        f"⚡ **Repo :** [Kyura-Userbot](https://github.com/Kyuraxp/Kyura-Userbot)\n"
     )
 
 
