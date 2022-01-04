@@ -7,7 +7,7 @@ from userbot.utils import edit_or_reply, man_cmd
 
 @man_cmd(pattern="p(?: |$)(.*)")
 async def _(event):
-    await edit_or_reply(event, "**Assalamualaikum Dulu Biar Sopan**")
+    await edit_or_reply(event, "**Assalamualaikum Anak kontol**")
 
 
 @man_cmd(pattern="pe(?: |$)(.*)")
@@ -24,7 +24,7 @@ async def _(event):
 
 @man_cmd(pattern="l(?: |$)(.*)")
 async def _(event):
-    await edit_or_reply(event, "**Wa'alaikumsalam**")
+    await edit_or_reply(event, "**Wa'alaikumsalam Mau Vcs Kah?**")
 
 
 @man_cmd(pattern="a(?: |$)(.*)")
@@ -38,14 +38,14 @@ async def _(event):
 async def _(event):
     xx = await edit_or_reply(event, "**JAKA SEMBUNG BAWA GOLOK**")
     sleep(3)
-    await xx.edit("**NIMBRUNG GOBLOKK!!!🔥**")
+    await xx.edit("**NIMBRUNG GOBLOKK!!!🗿**")
 
 
 @man_cmd(pattern="k(?: |$)(.*)")
 async def _(event):
     xx = await edit_or_reply(event, f"**Hallo KIMAAKK SAYA {owner}**")
     sleep(2)
-    await xx.edit("**LU SEMUA NGENTOT 🔥**")
+    await xx.edit("**LU SEMUA NGENTOT 🗿**")
 
 
 @man_cmd(pattern="ass(?: |$)(.*)")
@@ -73,9 +73,9 @@ CMD_HELP.update(
         \n\n  •  **Syntax :** `{cmd}sayang`\
         \n  •  **Function : **Kata I Love You.\
         \n\n  •  **Syntax :** `{cmd}k`\
-        \n  •  **Function : **LU SEMUA NGENTOT 🔥\
+        \n  •  **Function : **LU SEMUA NGENTOT 🗿\
         \n\n  •  **Syntax :** `{cmd}j`\
-        \n  •  **Function : **NIMBRUNG GOBLOKK!!!🔥\
+        \n  •  **Function : **NIMBRUNG GOBLOKK!!!🗿\
     "
     }
 )
