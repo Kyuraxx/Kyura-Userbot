@@ -1,7 +1,7 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "name": "Kyura-Userbot",
+  "description": "[Kyura-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "logo": "https://telegra.ph/file/d841005eca08d0ed2ef36.jpg",
   "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
   "repository": "https://github.com/Kyuraxp/Kyura-Userbot",
   "stack": "container",
@@ -23,7 +23,7 @@
       "required": false
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
+      "description": "Dapatkan String Session di Grup » https://t.me/KyuraSupport » Lalu ketik #string",
       "required": true
     },
     "HEROKU_APP_NAME": {
