@@ -18,13 +18,13 @@ async def _(event):
 # Create by myself @localheart
 
 
-@bot.on(man_cmd(outgoing=True, pattern=r"semangat(?: |$)(.*)"))
+@bot.on(man_cmd(outgoing=True, pattern=r"kyura(?: |$)(.*)"))
 async def _(event):
-    await event.edit("**Apapun Yang Terjadi**")
+    await event.edit("**Perkenalkan Nama saya**")
     sleep(3)
-    await event.edit("**Tetaplah Bernapas**")
+    await event.edit("**Kyura Umur 18**")
     sleep(1)
-    await event.edit("**Dan Selalu Bersyukur**")
+    await event.edit("**Salken Ya Kontol🔥**")
 
 
 # Create by myself @localheart
@@ -58,7 +58,7 @@ async def _(event):
     sleep(1.5)
     await event.edit("**MENTAL TEMPE**")
     sleep(1.5)
-    await event.edit("**LEMBEK NGENTOT🔥**")
+    await event.edit("**LEMBEK KONTOL🔥**")
 
 
 @bot.on(man_cmd(outgoing=True, pattern=r"pp(?: |$)(.*)"))
@@ -151,7 +151,7 @@ async def _(event):
 async def _(event):
     await event.client.send_message(
         event.chat_id,
-        "**MUKA BAPAK LU KEK KELAPA SAWIT ANJING, GA USAH NGATAIN ORANG, MUKA LU AJA KEK GEMBEL TEXAS GOBLOK!!**",
+        "**MUKA BAPAK LU KEK KELAPA SAWIT ANJING, GA USAH NGATAIN ORANG, MUKA LU AJA KEK GEMBEL TELE GOBLOK!!**",
     )
     await event.delete()
 
@@ -187,7 +187,7 @@ async def _(event):
 @bot.on(man_cmd(outgoing=True, pattern=r"skb(?: |$)(.*)"))
 async def _(event):
     await event.client.send_message(
-        event.chat_id, "**EMANG KITA KENAL? KAGA GOBLOK SOKAB BANGET LU GOBLOK**"
+        event.chat_id, "**EMANG KITA KENAL? KAGA GOBLOK SOKAB BANGET LU KONTOL**"
     )
     await event.delete()
 
