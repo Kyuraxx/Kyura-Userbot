@@ -170,15 +170,15 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
-        f"**[Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) is Up and Running.**\n\n"
+        f"**[Kyura-Userbot](https://github.com/Kyuraxp/Kyura-Userbot) is Up and Running.**\n\n"
         f"**{alive_text}**\n\n"
-        f"{emoji} **Master :** [{user.first_name}](tg://user?id={user.id}) \n"
-        f"{emoji} **Modules :** `{len(modules)} Modules` \n"
-        f"{emoji} **Bot Version :** `{BOT_VER}` \n"
-        f"{emoji} **Python Version :** `{python_version()}` \n"
-        f"{emoji} **Pytgcalls Version :** `{pytgcalls.__version__}` \n"
-        f"{emoji} **Telethon Version :** `{version.__version__}` \n"
-        f"{emoji} **Bot Uptime :** `{uptime}` \n\n"
+        f"{emoji} **🔱Master :** [{user.first_name}](tg://user?id={user.id}) \n"
+        f"{emoji} **🗿Modules :** `{len(modules)} Modules` \n"
+        f"{emoji} **🤖Bot Version :** `{BOT_VER}` \n"
+        f"{emoji} **🐍Python Version :** `{python_version()}` \n"
+        f"{emoji} **🌐Pytgcalls Version :** `{pytgcalls.__version__}` \n"
+        f"{emoji} **⚡Telethon Version :** `{version.__version__}` \n"
+        f"{emoji} **⏳Bot Uptime :** `{uptime}` \n\n"
         f"    **[𝗦𝘂𝗽𝗽𝗼𝗿𝘁](https://t.me/{GROUP})** | **[𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://t.me/{CHANNEL})** | **[𝗢𝘄𝗻𝗲𝗿](tg://user?id={user.id})**"
     )
     if ALIVE_LOGO:
