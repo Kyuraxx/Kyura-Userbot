@@ -3,7 +3,7 @@
   "description": "[Kyura-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/d841005eca08d0ed2ef36.jpg",
   "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
-  "repository": "https://github.com/Kyuraxp/Kyura-Userbot",
+  "repository": "https://github.com/Kyuraxx/Kyura-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
